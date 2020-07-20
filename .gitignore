@@ -1,0 +1,22 @@
+# package directories
+__tests__
+node_modules
+package-lock.json
+jspm_packages
+ios/Podfile.lock
+.idea
+yarn.lock
+yarn-error.log
+android/.idea
+.gradle
+android/app/build
+android/app/build.gradle
+ios/build
+ios/Pods
+ios/Nopos-tvOS
+ios/Nopos-tvOSTests
+# Mac OS Files
+*.DS_Store
+.AppleDouble
+.LSOverride
+._*

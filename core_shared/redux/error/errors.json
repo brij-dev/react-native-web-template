@@ -1,0 +1,12 @@
+{
+
+  "GLOBAL_ERRORS": [
+
+    "INTERNAL_CLOSED",
+    "NETWORK_ERROR",
+    "UNDER_MAINTAINENCE",
+    "SERVER_ERROR"
+    
+  ]
+
+}
